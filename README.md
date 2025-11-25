@@ -1,2 +1,2 @@
-# frontend-explanation
-explain html css js bootstrap react
+# Basics Frontend Course
+Explain HTML CSS JS and Bootstrap 
